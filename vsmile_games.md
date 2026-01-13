@@ -1,0 +1,323 @@
+V.Smile was a obscure video game console made by VTech in 2004. the first games used 2 3MB blobs, but later in 2004 they changed to a single 8MB blob. The game V.Smile Art Studio used a 4MB blob.
+
+Here are the games that got ROM Dumps out of there
+
+# China
+- 蝙蝠侠 - 拯救城市
+- Disney/Pixar 瓦力
+
+# Denmark
+- Byggemand Bob - Bobs travle dag
+- Disney Den Lille Havfrue - Ariels majestætiske rejse!
+- Disney Løvernes Konge - Simbas store eventyr
+- Disney Peter Plys - Honningjagten
+- Disney Princess Cinderella - Askepots magiske ønsker
+- Disney/Pixar Biler - Ræs i Kølerkildekøbing
+- Scooby-Doo! - Sjov i forlystelsesparken
+# France
+- ABC Land Aventure
+- Apprenti' pilote (English version undumped)
+- Bob le Bricoleur - Les P'tits chantiers de Bob
+- Cranium - Le Parc D'Attractions
+- Disney Les petits Einsteins
+- Disney Aladdin - Les fabuleuses aventures d'Aladdin
+- Disney La Maison De Mickey
+- Disney La Petite Sirene: Ariel devient une princesse
+- Disney Manny et ses outils
+- Disney Mickey - Mickey à la Recherche De Pluto
+- Disney Princesses Cendrillon - Le rêve enchanté de Cendrillon (2005)
+- Disney Princesses Cendrillon - Le rêve enchanté de Cendrillon (2007)
+- Disney Winnie l'Ourson - La Chasse au miel de Winnie (2004)
+- Disney Winnie l'Ourson - La Chasse au miel de Winnie (2007)
+- Disney/Pixar Cars - Quatre Roues (2006)
+- Disney/Pixar Cars - Quatre Roues (2008)
+- Disney/Pixar Là-Haut (2009)
+- Disney/Pixar Le Monde de Nemo - Nemo à la découverte de l'océan
+- Disney/Pixar Ratatouille - Les nouvelles recettes de Rémy
+- Disney/Pixar Toy Story 2 - Buzz à la Rescousse!
+- Disney/Pixar Wall-E
+- Dora L'Exploratrice - Les aventures de Dora Apprentie Mécano (2005)
+- Dora L'Exploratrice - Les aventures de Dora Apprentie Mécano (2007)
+- DreamWorks Monstres contre Aliens
+- DreamWorks Shrek - Le Rhume de Dragonne
+- DreamWorks Shrek Le Troisième - L'aventure d'Arthur (2007)
+- DreamWorks Shrek Le Troisième - L'aventure d'Arthur (2008)
+- Kung Fu Panda - La Mission de Po
+- Le Monde d'Elmo - Les Grandes Découvertes D'Elmo
+- Le Roi Lion - Simba Découvre la Jungle
+- Les aventures de imagniares d'Ernest et Bart
+- Les aventures du Petit Chaperon Rouge
+- Les Bisounours - Le monde merveilleux des Bisounours
+- Lil' Bratz Au Top de la Mode - Complices, Cools et Class'
+- Marvel Spider-Man & ses amis - Missions secrètes (2005)
+- Marvel Spider-Man & ses amis - Missions secrètes (2007)
+- Marvel Spider-Man & ses amis - Missions secrètes (2009)
+- Mission Pilote (English version undumped)
+- Nickelodeon Bob L'éponge - Une journée dans la vie d'une éponge
+- Nickelodeon Go Diego! - À la rescousse des animaux!
+- Nickelodeon Les Mélodilous - Les explorateurs vikings
+- Oui-Oui - Détective d'un Jour (2005)
+- Oui-Oui - Détective d'un Jour (2007)
+- Scooby-Doo! - Panique à Funland (2005)
+- Scooby-Doo! - Panique à Funland (2007)
+- Spider-Man & ses amis - Le Défi Du Docteur Ock
+- Superman - À la rescousse !
+- The Batman - Panique à Gotham City
+- Thomas et ses Amis - Les locomotives s'entraident
+- V.Smile Clavier Tip Tap
+- V.Smile Défi Gym
+- V.Smile Football Challenge
+- V.Smile Mes Premiers Clics
+- Walt Disney Cendrillon - Le rêve enchanté de Cendrillon
+- Zézou - Notre Ami Venu d'Ailleurs
+# Germany
+- Abenteuer im ABC Park (2005)
+- Abenteuer im ABC Park (2006)
+- Barney - Erlebnis-Reise
+- Bob der Baumeister - Bobs spannender Arbeitstag (2005)
+- Bob der Baumeister - Bobs spannender Arbeitstag (2007)
+- Cranium - Freizeit Park - Ein Jahrmarkt voller Spiel- und Lernspaß
+- Der Koenig der Loewen - Simbas großes Abenteuer
+- Disney's Kleine Einsteins
+- Disney's Princess Cinderella - Lernen im Märchenland (2005)
+- Disney's Princess Cinderella - Lernen im Märchenland (2007)
+- Disney's Princess Cinderella - Lernen im Märchenland (2008)
+- Disney's Winnie Puuh - Winnie Puuh auf der Honigjagd (2004)
+- Disney/Pixar Cars - Vollgas in Radiator Springs
+- Disney/Pixar Findet Nemo - Nemos Unterwasserabenteuer
+- Disney/Pixar Oben
+- Disney/Pixar Ratatouille - Remys neue Rezepte
+- Disney/Pixar Toy Story 2 - Woodys Spannende Rettung
+- Disney/Pixar Wall-E
+- Disneys Aladdin - Aladdins Welt der Wunder
+- Disneys Arielle Die Meerjungfrau - Arielles aufregendes Abenteuer (2004)
+- Disneys Arielle die Meerjungfrau - Arielles aufregendes Abenteuer (2005)
+- Disneys Micky - Mickys magisches Abenteuer
+- Disneys Winnie Puuh - Die Honigjagd (2005)
+- Dolphis Wasser-abenteuer
+- DreamWorks Monsters vs Aliens
+- DreamWorks Shrek - Die Geschichte des Drachen
+- DreamWorks Shrek der Dritte - Ein Spannender Schultag
+- Elmos großes Abenteuer
+- Entdecke die Welt von Rotkäppchen
+- Ernies & Berts Fantastisches Abenteuer
+- Flitzers Schlaue Städtetour (English version undumped)
+- Freds Zahlen Rallye (English version undumped)
+- Kung Fu Panda - Der Weg des Panda
+- Mein erster Hund
+- Meister Manny's Werkzeugkiste
+- Micky Maus Wunderhaus
+- My Friends Tigger & Pooh - Die Honigjagd (2007)
+- Nick Jr Dora - Doras Reparatur-Abenteuer (2008)
+- Nickelodeon SpongeBob Schwammkopf - Der Tag des Schwamms (2005)
+- Nickelodeon SpongeBob Schwammkopf - Der Tag des Schwamms (2006)
+- Noddy - Detektiv für einen Tag
+- Scooby-Doo! - Im Lernpark
+- Spider-Man & Freunde - Geheime Missionen
+- Spider-Man & Freunde - Wettkampf im Space-Labor
+- Superman - Der Superheld
+- The Batman - Rettung von Gotham City
+- Thomas & seine Freunde - Freunde Halten Zusammen (2005)
+- Thomas & seine Freunde - Freunde Halten Zusammen (2005, alt)
+- Thomas & seine Freunde - Freunde Halten Zusammen (2007)
+- Thomas & seine Freunde - Freunde Halten Zusammen
+- V.Smile Fußball Schule
+- V.Smile Mein erster Mausklick
+- V.Smile Schreibspaß
+- V.Smile Tanz Mit Center
+- V.Smile Zeichenatelier
+- Zayzoos Lernall
+- V.Smile Studio De Dessin
+# Italy
+- Avventura nel Parco Alfabeto
+- Disney Aladdin - Il magico mondo di Aladdin
+- Disney Cenerentola - I desideri magici di Cenerentola
+- Disney Cenerentola - I desideri magici di Cenerentola
+- Disney Il re leone - La grande avventura di Simba
+- Disney La sirenetta - Ariel e la crociera magica
+- Disney Topolino - Le Magiche Avventure di Topolino
+- Disney/Pixar Ratatouille - Le nuove ricette di Remy
+- Disney/Pixar Toy Story 2 - Operazione: Salvataggio di Woody!
+- Disney/Pixar Toy Story 3
+- Disney/Pixar Wall-E
+- Nickelodeon SpongeBob - Un giorno da Spugna
+- Scooby-Doo! - Avventura a Funland
+- Spider-Man & Friends - La Sfida del Dottor Ock
+- Spider-Man & Friends - Missioni Segrete
+- V.Smile Football Club
+- Winnie the Pooh e la caccia al miele
+# Netherlands
+- Alfabet Pretpark
+- Disney's Aladdin - De wonderwereld van Aladdin
+- Disney's Mickey Mouse - De wonderwereld van Mickey
+- Disney's Winnie de Poeh - De wonderwereld van Poeh (2007)
+- Disney/Pixar Finding Nemo - De wonderwereld van Nemo
+- Disney/Pixar Ratatouille - Remy's Nieuwe Recepten
+- DreamWorks Shrek - Het Verhaal Van Draakje (Gen 1 Pocket Orange pack-in)
+- Marvel Spider-Man en Vrienden - Geheime Missies
+- Mickey Mouse Clubhouse
+- Nick Jr. Dora - Dora's Reparatie Avontuur! (2005) (Orange Limited Edition pack-in)
+- Nick Jr. Dora - Dora's Reparatie Avontuur! (Motion)
+- Nickelodeon SpongeBob SquarePants - Een Dag uit het Leven van een Spons
+- Scooby-Doo! - Griezelen in het Pretpark
+- Shrek De Derde - Arthurs Schooldag Avontuur
+- Spider-Man en Vrienden - Geheime Missies
+- Superman - De Grootste Held
+- The Batman - De redding van Gotham City
+- Truckie's Rekenrace (English version undumped)
+- Walt Disney's Assepoester - De wonderwereld van Assepoester (2005) (Pink Gen 1 pack in)
+- Walt Disney's Assepoester - De wonderwereld van Assepoester (2007) (Pink Gen 2 pack in + Gen 2 early Pocket Pink Pack In)
+- Walt Disney's Assepoester - De wonderwereld van Assepoester (Motion)
+# Portugal
+- Disney/Pixar À Procura de Nemo - Nemo À Descoberta do Oceano
+- Noddy - Detective Por um Dia
+# Spain
+- Aventuras en el Parque Alfabeto (special edition Pack in)
+- Barrio Sésamo - El Mundo Fantástico de Epi y Blas
+- Bob y sus Amigos - Un Día De Trabajo
+- Campeonato de Futbol V.Smile
+- Conducción Divertida
+- Cranium - Parque de Atracciones de Cranium
+- Dakota y su mascota
+- Disney Aladdin - El Maravilloso Mundo de Aladdin
+- Disney El Rey León - La Gran Aventura de Simba
+- Disney La Casa de Mickey Mouse (red Gen 2 Pack In)
+- Disney La Sirenita - El Viaje Fantástico de Ariel
+- Disney Mickey - La Aventura Mágica de Mickey
+- Disney Winnie the Pooh - En Busca de la Miel (2005) (Orange Gen 1 pack in)
+- Disney Winnie the Pooh - En Busca de la Miel (2007) (Orange Gen 2 Pack in)
+- Disney's Little Einsteins (Red Cyber Pocket Pack In)
+- Disney/Pixar Buscando a Nemo - Los Descubrimientos de Nemo
+- Disney/Pixar Cars - Acelera el Motor en Radiador Springs
+- Disney/Pixar Ratatouille - Las recetas del Remy
+- Disney/Pixar Toy Story 2 - El Rescate De Woody
+- Disney/Pixar Up
+- Disney/Pixar Wall-E
+- DreamWorks Monstruos contra Alienígenas
+- DreamWorks Shrek - El Cuento de la Dragona
+- El Mundo de Elmo - Grandes descubrimientos de Elmo
+- Gimnasio Interactivo V.Smile
+- Kung Fu Panda - Aventura en el Valle de la Paz
+- Lil' Bratz Estrellas De La Moda - Amigos, Moda y Diversión
+- Nick Jr. Dora La Exploradora - La Aventura arregla-todo de Dora (2009) (Pink Cyber Pocket {alt} and 2010 Pocket pack-in)
+- Nickelodeon Bob Esponja - Un día en la vida de una esponja (Orange 2010 pocket Pack-In)
+- Osos Amorosos - Una Lección de Amor
+- Scooby-Doo - Misterio en el Parque
+- Scooby-Doo - Misterio en el Parque (purple)
+- Spider-Man y Amigos - La Aventura Del Doctor Octopus
+- Spider-Man y Amigos - Misiones Secretas (2005)
+- Spider-Man y Amigos - Misiones Secretas (2007) (Blue Cyber Pocket Pack In)
+- Superman - El Hombre de Acero
+- Teclado Interactivo V.Smile
+- The Batman - Rescate en Gotham City
+- V.Smile Estudio De Arte
+- V.Smile PC
+- Walt Disney La Cenicienta - Los sueños mágicos de Cenicienta (2005) (pink Gen 1 and Pink Gen 1 Pocket pack in)
+- Walt Disney La Cenicienta - Los sueños mágicos de Cenicienta (2007) (Pink gen 2 and Pink Gen 2 Pocket pack in)
+- Walt Disney La Cenicienta - Los sueños mágicos de Cenicienta (2008) (Pink Cyber Pocket pack in)
+- Zayzoo - Mi Amiga del Espacio
+# Sweden
+- Byggare Bob - Bobs stressiga dag
+- Disney Lejonkungen - Simbas stora äventyr
+- Disney Nalle Puh - Honungsjakten (Orange gen 1 pack in)
+- Disney Princess Cinderella - Askungens magiska önskningar (Pink gen 1 Pack In)
+- Disney/Pixar Bilar - Kör ikapp i Kylarköping
+- Disney/Pixar Toy Story 2 - Operation: Rädda Woody!
+- Disney/Pixar Wall-E
+- Disneys Den Lilla Sjöjungfrun - Ariels majestätiska resa!
+- Disneys Musse Pigg - Musses magiska äventyr
+- Mickey Mouse Clubhouse
+- Min hundvalp
+- Scooby-Doo! - Tivoli-tokerier
+- Thomas & Friends - Tågen hjälps åt
+- Tingeling (last purple cart to release in that country)
+- V.Smile Tecknarstudio
+# UK
+- Alphabet Park Adventure
+- Bob The Builder - Bob's Busy Day (2005)
+- Disney's Aladdin - Aladdin's Wonders of the World
+- Disney's Cinderella - Cinderella's Magic Wishes (2005) (Pink pack in)
+- Disney's Mickey Mouse - Mickey's Magical Adventure
+- Disney's The Little Mermaid - Ariel's Majestic Journey
+- Disney's Winnie the Pooh - The Honey Hunt (2004)
+- Disney's Winnie the Pooh - The Honey Hunt (2007) (gen 2 orange pack in)
+- Disney/Pixar Cars - Rev It Up in Radiator Springs (2006)
+- Disney/Pixar Cars - Rev It Up in Radiator Springs
+- Disney/Pixar Toy Story 2 - Operation-Rescue Woody!
+- Disney/Pixar Up
+- DreamWorks Shrek the Third - Arthur's School Day Adventure
+- Kung Fu Panda - Path of the Panda
+- Marvel Spider-Man & Friends - Secret Missions
+- Nick Jr. Dora the Explorer - Dora's Fix-it Adventure (2005) (Limited Edition Gen 1 Pink pack in)
+- Nick Jr. Dora the Explorer - Dora's Fix-it Adventure (2007)
+- Nick Jr. Go Diego Go! - Save the Animal Families!
+- Noddy - Detective for a Day
+- Scooby-Doo! - Funland Frenzy (2005)
+- Scooby-Doo! - Funland Frenzy (2007)
+- Scooby-Doo! - Funland Frenzy (2008) (Blue Cyber Pocket Pack In)
+- The Batman - Gotham City Rescue
+- Thomas & Friends - Engines Working Together (2005)
+- Thomas & Friends - Engines Working Together (2007) (Blue Gen 2 pack in)
+- Zayzoo - My Alien Classmate
+- Zayzoo: An Earth Adventure
+# USA
+- Alphabet Park Adventure (2004)
+- Alphabet Park Adventure (2007)
+- Alphabet Park Adventure (Alt)
+- Barney - The Land of Make Believe
+- Bert & Ernie's Imagination Adventure
+- Bob the Builder - Bob's Busy Day
+- Care Bears - A Lesson in Caring
+- Cranium Partyland Park - A Carnival of Play-and-Learn Fun
+- Disney Handy Manny
+- Disney Princess Cinderella - Cinderella's Magic Wishes
+- Disney Princess Cinderella - Cinderella's Magic Wishes (alt)
+- Disney's Aladdin - Aladdin's Wonders of the World
+- Disney's Cinderella - Cinderella's Magic Wishes
+- Disney's Little Einsteins
+- Disney's Mickey Mouse - Mickey's Magical Adventure
+- Disney's The Lion King - Simba's Big Adventure
+- Disney's The Lion King - Simba's Big Adventure (alt)
+- Disney/Pixar Cars - Rev It Up in Radiator Springs (2006)
+- Disney/Pixar Cars - Rev It Up in Radiator Springs (alt)
+- Disney/Pixar Cars - Rev It Up in Radiator Springs (2009)
+- Disney/Pixar Finding Nemo - Nemo's Ocean Discoveries
+- Disney/Pixar Ratatouille - Remy's New Recipes
+- Disney/Pixar Toy Story 2 - Operation: Rescue Woody!
+- Disney/Pixar Toy Story 2 - Operation: Rescue Woody! (alt)
+- Disney/Pixar Toy Story 2 [Smartbook]
+- Disney/Pixar Up
+- Disneys Winnie the Pooh - The Honey Hunt
+- DreamWorks Shrek - Dragon's Tale
+- DreamWorks Shrek the Third - Arthur's School Day Adventure
+- DreamWorks Shrek the Third - Arthur's School Day Adventure (alt)
+- Lil' Bratz Dressed Up - Friends, Fashion and Fun
+- Marvel Spider-Man & Friends - Secret Missions
+- Marvel Spider-Man & Friends - Where is Hulk (Smartbook)
+- Nick Jr Dora the Explorer - Dora's Fix-it Adventure
+- Nick Jr The Backyardigans - Viking Voyage
+- Nick Jr. Blue's Clues - Collection Day
+- Nick Jr. Dora the Explorer - Dora's Got a Puppy (Smartbook)
+- Nick Jr. Go Diego Go! - Save the Animal Families!
+- Nick Jr. Wow! Wow! Wubbzy!
+- Nickelodeon Dora the Explorer - Dora's Fix-it Adventure
+- Nickelodeon SpongeBob SquarePants - A Day in the Life of a Sponge
+- Noddy - Detective for a Day
+- Scooby-Doo! - A Night Of Fright Is No Delight (Smartbook)
+- Scooby-Doo! - Funland Frenzy
+- Scooby-Doo! - Funland Frenzy (2009)
+- Superman - The Greatest Hero
+- The Adventures of Little Red Riding Hood
+- The Wiggles - It's Wiggle Time!
+- Thomas & Friends - Engines Working Together
+- Thomas & Friends - Engines Working Together (alt)
+- TinkerBell
+- V.Smile Art Studio
+- V.Smile Jammin' Gym Class
+- V.Smile PC Pal Island
+- V.Smile Smart Keyboard
+- V.Smile Soccer Challenge
+- Zayzoo - My Alien Classmate
+- Zayzoo: An Earth Adventure
+# Undumped
+- Learnin' Wheels (MAME softlist name "fred")
