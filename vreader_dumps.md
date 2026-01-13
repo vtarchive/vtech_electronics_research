@@ -1,6 +1,6 @@
 all available V.Reader Dumps
 
-    <description>Scooby-Doo!-Scooby-Doo y la momia (Spain)</description>
+		<description>Scooby-Doo!-Scooby-Doo y la momia (Spain)</description>
 		<year>2012</year>
 		<publisher>VTech</publisher>
 		<description>Dora und die drei Schweinchen (Germany)</description>
